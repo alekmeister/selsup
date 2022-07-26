@@ -1,0 +1,25 @@
+//.preloader {
+//  display: flex;
+//  justify-content: center;
+//  align-items: center;
+//  position: fixed;
+//  left: 0;
+//  top: 0;
+//  right: 0;
+//  bottom: 0;
+//  overflow: hidden;
+//  z-index: 1001;
+//}
+
+.preloader {
+  margin-top: 20px;
+display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.preloader_img {
+  width: 60px;
+  height: 60px;
+}
+
